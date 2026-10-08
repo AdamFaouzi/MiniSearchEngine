@@ -1,0 +1,2 @@
+Object oriented design includes encapsulation, inheritance, abstraction, and polymorphism. Good OOP design improves code reuse.
+OOP objects can be stored in data_structures.

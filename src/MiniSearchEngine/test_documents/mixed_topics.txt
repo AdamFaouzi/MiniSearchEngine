@@ -1,0 +1,1 @@
+Java collections include List, Set, and Map. Trees can be used in indexing. Inheritance appears in many examples.

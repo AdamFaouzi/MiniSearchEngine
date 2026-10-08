@@ -1,0 +1,2 @@
+Common data structures include arrays, linked lists, stacks, queues, trees, and hash maps. Search engines often use maps.
+Data is stored in structures to save them for later use.
